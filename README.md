@@ -350,5 +350,6 @@ Assets/
 Requirements
 Unity 2020.3 or later
 Audio clips must be imported with "Load Type" compatible with GetData()
+
 License
 MIT License - see LICENSE file.
