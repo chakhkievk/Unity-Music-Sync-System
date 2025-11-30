@@ -149,8 +149,9 @@ Add `AnimationSyncController` to character GameObject:
 
 Add `OnbeatHit` animation events to your animation clips:
 
-1. Select animation clip
+1. Select your character with an animator
 2. Open Animation window
+3. Select the animation you want to sync with the music
 3. Add Animation Event `OnbeatHit` at desired frames
 
 The controller will automatically adjust animation speed so these events align with music onsets.
